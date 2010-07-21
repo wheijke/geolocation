@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-	<!--
-	<parent>
-		<artifactId>hifivault-app</artifactId>
-		<groupId>com.hifivault</groupId>
-		<version>0.1</version>
-	</parent>
--->
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.hifivault</groupId>
 	<artifactId>geolocation</artifactId>
