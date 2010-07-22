@@ -15,7 +15,6 @@
  */
 package org.hifivault.geo.location;
 
-
 /**
  * A class that could implement a location resolver like maxmind
  * 
@@ -25,6 +24,6 @@ public interface GeoLocationService {
 
     public String getCountryCode(String ip);
 
-    public String getDatabaseInfo();;
+    public String getDatabaseInfo();
 
 }
